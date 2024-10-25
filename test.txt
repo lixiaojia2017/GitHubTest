@@ -2,7 +2,3 @@ first
 tw
 th
 fou
-
-
-
-first
